@@ -1,11 +1,13 @@
 
-# Nombre del Proyecto: Proyecto Xmen
+# Nombre del Proyecto: Aun lo estamos pensando
 
 ## UAC-104-grupo-1
 
 ### Integrantes
-- Estudiante 1
-- Estudiante 2
+- Yuri Paola Arciniegas Rodriguez
+- Eduardo Enrique Baron Poveda
+- Eder Fernando Ramos Castiblanco
+- Jesus Alberto Cogua
 
 ## Descripción del proyecto:
 Descripción básica proyecto 1
