@@ -8,7 +8,7 @@
 - Estudiante 2
 
 ## Descripción del proyecto:
-Descripción básica proyecto
+Descripción básica proyecto 1
 
 ## Funciones Básicas
 - Usuario debe de poder generar un login
